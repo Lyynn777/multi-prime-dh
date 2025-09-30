@@ -37,7 +37,7 @@ This project demonstrates a **Multi-Prime Diffie-Hellman key exchange protocol**
    - Shared key computation
    - AES message encryption/decryption
    - Performance comparison
-   - Interactive demo
+   - Interactive demo (TBA)
 
 ---
 
