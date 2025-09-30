@@ -1,6 +1,6 @@
 # Multi-Prime Diffie-Hellman (MPDH) Key Exchange
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Lyynn777/multi-prime-dh/blob/main/Multi-Prime_Diffie_Hellman.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Lyynn777/multi-prime-dh/blob/main/multi-prime-dh.ipynb)
 
 ---
 
