@@ -41,18 +41,6 @@ This project demonstrates a **Multi-Prime Diffie-Hellman key exchange protocol**
 
 ---
 
-## **Folder Structure**
-multi-prime-dh/
-│
-
-├── Multi-Prime_Diffie_Hellman.ipynb # Main Colab notebook
-
-├── multi_prime_dh_flowchart.png # Flowchart image generated in notebook
-
-└── README.md # Project documentation
-
-
----
 
 ## **Interactive Demo**
 - Use the slider to select **number of primes** (2–15).
