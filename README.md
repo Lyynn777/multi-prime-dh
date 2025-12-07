@@ -4,7 +4,7 @@
 ![Cryptography](https://img.shields.io/badge/Cryptography-Diffie--Hellman-blue?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
 ![Multi-Prime](https://img.shields.io/badge/Protocol-Multi--Prime-green?style=for-the-badge)
 ![AES](https://img.shields.io/badge/Encryption-AES--256-orange?style=for-the-badge&logo=apache)
-[![Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://github.com/Lyynn777/multi-prime-dh/blob/main/Copy_of_multi_prime_dh.ipynb)
+[![Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://github.com/Lyynn777/multi-prime-dh/blob/main/multi_prime_dh.ipynb)
 ![Math](https://img.shields.io/badge/Number%20Theory-Primes-purple?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Open%20Source-brightgreen?style=for-the-badge)
 
